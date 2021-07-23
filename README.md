@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+flutter pub get before run application.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
